@@ -1,6 +1,6 @@
 name,alias1,alias2,languages,content_id,fails,video,audio
 Abu Dhabi Sports 4,,,ar,685ad01b8a951ccd19369ea7d4dc20659c547cfa,0,,
-ACETOP-1,,,,2b0acad014567bbbe0664904af8c001754283eb1,0,,
+ACETOP-1,,,,2b0acad014567bbbe0664904af8c001754283eb1,0,h264 1280x720 50.000fps,aac 2ch 48000Hz
 Arena Sport 1,,,,3dc431b867d01ac01aa5660e0b8d2804e5c031bf,0,h264 1920x1080 25.000fps,mp2 2ch 48000Hz
 Astrakhan.Ru Sport,,,ru,0f8c7fb529e32def82bba992e5b1b4b06627290b,0,h264 426x240 25.000fps,aac 2ch 48000Hz
 Astrakhan.Ru Sport,,,ru,e9625730643fa4496d2498757e43c7106d8abdfe,0,h264 1920x1080 25.000fps,aac 2ch 48000Hz
@@ -56,7 +56,7 @@ DAZN F1,,,sp,9dad717d99b29a05672166258a77c25b57713dd5,0,h264 1920x1080 25.000fps
 DAZN F1,,,sp,71eef80158aa8b37f3dc59f6793c6696df9a2dfa,0,h264 1920x1080 25.000fps,aac 2ch 32000Hz
 DAZN F1,,,sp,2c6e4c897661e6b0257bfe931b66d20b2ec763b6,0,,
 DAZN F1,,,sp,268289e7a3c5209960b53b4d43c8c65fab294b85,0,h264 1920x1080 25.000fps,aac 2ch 32000Hz
-DAZN LaLiga,,,sp,6de4794cd02f88f14354b5996823413a59a1de0f,0,,
+DAZN LaLiga,,,sp,6de4794cd02f88f14354b5996823413a59a1de0f,0,h264 1920x1080 25.000fps,aac 2ch 44100Hz
 DAZN LaLiga,,,sp,1960a9be8ae9e8c755330218eac4c5805466290a,0,,
 DAZN LaLiga,,,sp,a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914,0,h264 1280x720 25.000fps,aac 2ch 32000Hz
 DAZN LaLiga 2,,,sp,97ba38d47680954be40e48bd8f43e17222fefecb,0,h264 1920x1080 50.000fps,mp2 2ch 48000Hz
@@ -148,7 +148,7 @@ M-1 Global,,,ru,3fc677886985d705c9ac6b10bb86449e0dabebdc,0,h264 1980x1920 25.000
 M-1 Global,,,ru,f4987c5f5ac96ef23b7d4b04c12db4a39bbab63b,0,,
 M+ Deportes,,,sp,acb510858f34c3c6fd5f79395b031abd6885c2b3,0,h264 1920x1080 25.000fps,mp2 2ch 48000Hz
 M+ Deportes,,,sp,55d4602cb22b0d8a33c10c2c2f42dae64a9e8895,0,h264 1920x1080 25.000fps,aac 2ch 48000Hz
-M+ Deportes,,,sp,77d83a79afcf6c865289cd8cdb42223cd4b6501c,0,,
+M+ Deportes,,,sp,77d83a79afcf6c865289cd8cdb42223cd4b6501c,0,h264 1280x720 25.000fps,aac 2ch 48000Hz
 M+ Deportes,,,sp,3a74d9869b13e763476800740c6625e715a39879,0,h264 1280x720 25.000fps,mp2 2ch 48000Hz
 M+ Deportes 2,,,sp,639c561dd57fa3fc91fde715caeb696c5efb7ce7,0,h264 1920x1080 25.000fps,aac 2ch 48000Hz
 M+ Deportes 3,,,sp,571bff4d12b1791eb99dbf20bec38e630693a6a3,0,h264 1920x1080 25.000fps,aac 2ch 48000Hz
@@ -227,7 +227,7 @@ Ocko,,,ru,da7c89b9867d934bc07f7d8c6c3dcd96e16b7728,0,h264 960x540 25.000fps,aac 
 Ocko,,,ru,b60c3101ec148027c19fff63efb0b0a4c8cedae0,0,h264 960x540 25.000fps,aac 2ch 48000Hz
 Ocko Star,,,ru,7625ce28a937a16d43a5e424b7545f28a05e5eb5,0,h264 960x540 25.000fps,aac 2ch 48000Hz
 Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c,0,h264 1920x1080 50.000fps,aac 2ch 48000Hz
-Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,94adcdc5a9de993dd11c6d648275cfeb2be6715b,0,,
+Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,94adcdc5a9de993dd11c6d648275cfeb2be6715b,0,h264 1280x720 50.000fps,aac 2ch 48000Hz
 Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,e38b33c56332de27ff25df223cdf488b1ec6051f,0,h264 1920x1080 50.000fps,aac 2ch 48000Hz
 Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,8442b5c7c99e5af57c2c40c1e28153072968988a,0,h264 1920x1080 50.000fps,aac 2ch 48000Hz
 Okko Sports,MATCH! Football,Setanta Sports Eurasia,ru,aca05dc506242324c1727525d0535ceda24f8dea,0,h264 1920x1080 50.000fps,aac 2ch 48000Hz
