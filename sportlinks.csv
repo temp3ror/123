@@ -99,8 +99,6 @@ Fox Sports 2,Fox Sports,,ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48,0,h264 1280x72
 Fox Sports 2,Fox Sports,en,cba8d369eac629b577750edb90370cd1c5fb03b7,0,h264 1280x720 59.940fps,HD
 Fox Sports 2,Fox Sports,,54487fee0ffef68b101de33982d8fded214c79f0,0,,
 Fox Sports Premium,Fox Sports,,6994af284ecab2996f9b140ef44b8da8bfee0006,0,h264 1920x1080 29.970fps,FHD
-La 1 TVE,La 1 TVE,sp,d7bb054b103a1f51b44518dcb80ef23370133d40,0,h264 1280x720 25.000fps,HD
-La 1 TVE,La 1 TVE,sp,b897de3e62d7c6bee9ef1107d972f3d1075e03ff,0,h264 1280x720 25.000fps,HD
 LaLiga TV Bar,LaLiga TV Bar,sp,608b0faf7d3d25f6fe5dba13d5e4b4142949990e,0,h264 1920x1080 50.000fps,FHD
 LaLiga TV Bar,LaLiga TV Bar,sp,94d34491106e00394835c8cb68aa94481339b53f,0,h264 1920x1080 50.000fps,FHD
 Boxing TV,Lucha/Boxeo,ru,427c27fa7f3dbbcbc59ad9a7ef1cb797e0f88fcd,0,h264 1920x1080 25.000fps,FHD
@@ -315,24 +313,23 @@ Sky Sports Football,Sky Sports,,8dbe2d515e9131fa311353537736f8c94be9b26d,0,h264 
 Sky Sports Football,Sky Sports,,eab7aeef0218ce8b0752e596e4792b69eda4df5e,0,h264 1920x1080 50.000fps,FHD
 Sky Sports News,Sky Sports,de,07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8,0,h264 1920x1080 25.000fps,FHD
 Sky Sports Premier League,Sky Sports,en,ec5eabe0144ccfffc337e1d6708e2afb81d0638e,0,h264 1920x1080 50.000fps,FHD
-Sport 1 Baltic,Sport,,2dacdd76f0ee765e7bacdc6687c375b68723e592,0,h264 1920x1080 25.000fps,FHD
-Sport 1 Baltic,Sport,,3e4ff574a14a232dd6ae370b36a0d21276be3b62,0,,
-Sport 1 IL,Sport,,ad723956cbe2f565cf5fa965665a47d8d4bbc4aa,0,,
-Sport 2 Baltic,Sport,,d9f167db346401107e8c57d4f99a79e60cc7dcea,0,,
-Sport 3 IL,Sport,,0724d20fea05ae104b76c9ea4e00e367235c329a,0,,
-Sport 4 IL,Sport,,0cc6a3d9cab21337f2e7e227608e535622e58186,0,,
-Sport 5 Gold IL,Sport,,0cd456d8a5b37778426ff6503677334e0abbe4f2,0,,
-Sport 5 IL,Sport,,503955701ee8f5d388998663ee85926bfe84feb3,0,,
-Sport 5 Live IL,Sport,,39c1d737ba83357998e1e2edb5ac7f937c7c693b,0,,
-Sport Digital,Sport,de,5e94200ae8b1d95cb559fb150e5993d92e15d4e7,0,h264 1920x1080 50.000fps,FHD
-Sport Klub,Sport,po,35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee,0,h264 1920x1080 50.000fps,FHD
+Sport 1 Baltic,Sport Klub,,2dacdd76f0ee765e7bacdc6687c375b68723e592,0,h264 1920x1080 25.000fps,FHD
+Sport 1 Baltic,Sport Klub,,3e4ff574a14a232dd6ae370b36a0d21276be3b62,0,,
+Sport 1 IL,Sport Klub,,ad723956cbe2f565cf5fa965665a47d8d4bbc4aa,0,,
+Sport 2 Baltic,Sport Klub,,d9f167db346401107e8c57d4f99a79e60cc7dcea,0,,
+Sport 3 IL,Sport Klub,,0724d20fea05ae104b76c9ea4e00e367235c329a,0,,
+Sport 4 IL,Sport Klub,,0cc6a3d9cab21337f2e7e227608e535622e58186,0,,
+Sport 5 Gold IL,Sport Klub,,0cd456d8a5b37778426ff6503677334e0abbe4f2,0,,
+Sport 5 IL,Sport Klub,,503955701ee8f5d388998663ee85926bfe84feb3,0,,
+Sport 5 Live IL,Sport Klub,,39c1d737ba83357998e1e2edb5ac7f937c7c693b,0,,
+Sport Digital,Sport Klub,de,5e94200ae8b1d95cb559fb150e5993d92e15d4e7,0,h264 1920x1080 50.000fps,FHD
+Sport Klub,Sport Klub,po,35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee,0,h264 1920x1080 50.000fps,FHD
 SPORT1,SPORT1,de,1950633a3723cb52b17c764125decc04445bd5ff,0,h264 1280x1080 25.000fps,HD
 SPORT1,SPORT1,de,638c168e9a98b0826ca3b5275a07ee1082c5c269,0,,
 SPORT1+,SPORT1,de,e61b6538df35e5016635dfa2b3073f5b82ee4c2b,0,h264 1920x1080 25.000fps,FHD
 Start,Start,ru,4b129146077c1e357e4ab341448b9fb629f939dc,0,h264 1920x1080 25.000fps,FHD
 Start,Start,ru,825e7e0f80441819cfd29d87c3659e520c25b616,0,,
 Start,Start,ru,9bc36a29862e841fe4af5d32c3100aa3f07a3172,0,,
-Teledeporte,Teledeporte,sp,ce473aab8e9232071c777c6d778a476fab818955,0,h264 1280x720 25.000fps,HD
 SuperTennis,Tenis,it,b58dbf92765976b308695f62dea94b00b40730ee,0,h264 1440x1080 25.000fps,HD
 Tennis Channel,Tenis,en,039fae21c9e7e5214d3d898cba80863e37e623ac,0,h264 1920x1080 59.940fps,FHD
 TNT Sports 1,TNT Sports,en,fc5089d8e1519872fdf951779ccbca913acc9bce,0,h264 1920x1080 25.000fps,FHD
@@ -342,6 +339,9 @@ TNT Sports 2,TNT Sports,en,d63d8a57cf471394bfa9f619bbd68b01ae27a801,0,h264 1920x
 TNT Sports 2,TNT Sports,en,927996b8192c7cc6bf768d52528c8e4198294328,0,,
 TNT Sports 3,TNT Sports,en,5f966c123759de46dff29c379266b7a403452033,0,h264 1920x1080 25.000fps,FHD
 TNT Sports 3,TNT Sports,en,22fead867a8657cfb58cd84245e18954ab199db3,0,,
+La 1 TVE,TVE,sp,d7bb054b103a1f51b44518dcb80ef23370133d40,0,h264 1280x720 25.000fps,HD
+La 1 TVE,TVE,sp,b897de3e62d7c6bee9ef1107d972f3d1075e03ff,0,h264 1280x720 25.000fps,HD
+Teledeporte,TVE,sp,ce473aab8e9232071c777c6d778a476fab818955,0,h264 1280x720 25.000fps,HD
 Ziggo Sport,Ziggo Sport,nl,7f50e06f715720e944cce35fa90b6b7a8db04b2e,0,h264 1280x720 25.000fps,HD
 Ziggo Sport,Ziggo Sport,nl,36dfc36084b2138d3451c4700b462ac1094d693d,0,h264 1920x1080 25.000fps,FHD
 Ziggo Sport,Ziggo Sport,nl,fcd7621df513f600652b4813d5d8fd1daed60058,0,h264 1920x1080 50.000fps,FHD
