@@ -73,7 +73,7 @@ ESPN,ESPN,nl,79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab,0,h264 1920x1080 50.000fps
 ESPN 2,ESPN,en,664eb5fe460b96941aed633959a845b185cd8394,0,h264 1280x720 59.940fps,HD
 ESPN 2,ESPN,fr,3e0ba6867173f345d482d80c771f1a5dc3b37e63,0,h264 1920x1080 50.000fps,FHD
 ESPN 4,ESPN,fr,5f9b19c57195cc28ab81e0ec8cad03b55118687a,0,h264 1920x1080 25.000fps,FHD
-ESPN Vivo,ESPN,sp,https://b.tryelvis.shop/espnsap.m3u8?t=532,,,
+ESPN Vivo,ESPN,sp,https://b.tryelvis.shop/espnsap.m3u8?t=532,0,h264 1280x720 59.940fps,HD
 EuroSport,EuroSport,,5e4cd48c79f991fcbee2de8b9d30c4b16de3b952,0,,
 Eurosport 1,EuroSport,de,b8cad4710b1c3b2b84a82c1ece40c08517b8f766,0,h264 1920x1080 25.000fps,FHD
 Eurosport 1,EuroSport,ru,1b0bc4d4dcd609d3c092712e721392b199f50a62,0,h264 1920x1080 25.000fps,FHD
@@ -122,6 +122,8 @@ M+ Deportes 2,M+ Deportes,sp,639c561dd57fa3fc91fde715caeb696c5efb7ce7,0,h264 192
 M+ Deportes 3,M+ Deportes,sp,571bff4d12b1791eb99dbf20bec38e630693a6a3,0,h264 1920x1080 25.000fps,FHD
 M+ Deportes 4,M+ Deportes,sp,b4d1308a61e4caf8c06ac3d6ce89d165c015c2fb,0,h264 1920x1080 25.000fps,FHD
 M+ Deportes 5,M+ Deportes,sp,fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac,0,h264 1920x1080 25.000fps,FHD
+M+ Deportes 6,M+ Deportes,sp,cc5782d37ae6b6e0bab396dd64074982d0879046,0,h264 1920x1080 25.000fps,FHD
+M+ Deportes 7,M+ Deportes,sp,070f82d6443a52962d6a2ed9954c979b29404932,0,h264 1920x1080 25.000fps,FHD
 M+ LaLiga,M+ LaLiga,sp,1bc437bce57b4b0450f6d1f8d818b7e97000745e,0,h264 1280x720 50.000fps,HD
 M+ LaLiga,M+ LaLiga,sp,cc9b7f5fe416069a2110da0909b0f915043c468b,0,h264 1920x1080 50.000fps,FHD
 M+ LaLiga,M+ LaLiga,sp,6d05b31e5e8fdae312fbd57897363a7b10ddb163,0,h264 1920x1080 50.000fps,FHD
@@ -265,6 +267,7 @@ Polsat Sport Premium 2,Polsat Sport,po,3147c586346aee00c005d1caa55204d38678c95f,
 Premier Sports 1,Premier Sports,en,75a56863b6fe0407ad4305b4d7ee5643c3923565,0,h264 1920x1080 50.000fps,FHD
 Premier Sports 2,Premier Sports,en,4903ca695edb64bc72ae29eb85a5333ba0139537,0,h264 1920x1080 50.000fps,FHD
 Real Madrid TV,Real Madrid TV,sp,5877ce180e7545117ff8b58a36821973850c6bba,0,h264 1920x1080 29.970fps,FHD
+Real Madrid TV,Real Madrid TV,sp,8c03fbe8d4ae210cceae65c5aa12ac0b53793726,0,h264 1280x720 30.000fps,HD
 Real Madrid TV,Real Madrid TV,sp,0ec3f3786318acd8dca2588f74c3759cda76cd11,0,h264 720x408 25.000fps,SD
 Real Madrid TV,Real Madrid TV,sp,0827cf7d290967985892965c6e61244a479d6dcd,0,h264 720x408 25.000fps,SD
 Redbull,Redbull,en,62daab1c54565d0c5ba4e3c660f3a4a5c93adc8a,0,h264 1280x720 30.000fps,HD
