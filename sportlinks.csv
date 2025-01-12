@@ -94,6 +94,8 @@ Eurosport360 6,EuroSport,de,005ac522315699bd93bbf743329eb2f3c347dc3f,0,h264 1920
 Eurosport360 7,EuroSport,de,b18657f64507cc859cd7edef1aef90feb053e791,0,h264 1920x1080 25.000fps,FHD
 Eurosport360 8,EuroSport,de,8f4f572005ca2557743474087aa622693ba9b5fe,0,h264 1920x1080 25.000fps,FHD
 Eurosport360 9,EuroSport,de,7993cecc31917793e2bfa2fe98faa9fe1ab62d47,0,h264 1920x1080 25.000fps,FHD
+Eurosport 1,EuroSport,sp,16ffa1713f42aa27317ee039a2bd0cdbc89a1580,0,h264 1920x1080 25.000fps,FHD
+Eurosport 2,EuroSport,sp,98784fa0714190de289f42eb5b84e405df7e685a,0,h264 1920x1080 25.000fps,FHD
 Fox Sports 1,Fox Sports,en,c9c062941fbecb16ce29437f346ea7177d720898,0,h264 1280x720 59.940fps,HD
 Fox Sports 1,Fox Sports,,f981462d62513f9d37a402a69aa0e4940b7dfc1c,0,,
 Fox Sports 2,Fox Sports,,ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48,0,h264 1280x720 29.970fps,HD
@@ -133,6 +135,11 @@ M+ LaLiga TV,M+ LaLiga,sp,f031f5728b32f6089dda28edebe990cf198108d8,0,h264 1280x7
 M+ LaLiga TV,M+ LaLiga,sp,7d8c87e057be98f00f22e23b23fbf08999e4b02f,0,h264 1920x1080 25.000fps,FHD
 M+ LaLiga TV,M+ LaLiga,sp,dce1579e3a2e5bd29071fca8eae364f1eb3205cf,0,hevc 3840x2160 50.000fps,UHD
 M+ LaLiga TV 2,M+ LaLiga,sp,26029f72a4ca831d09deefe89534818db1d105bc,0,h264 1280x720 25.000fps,HD
+M+ LaLiga 4,M+ LaLiga,sp,68697ea4f261289d97bbc3418ad3cbc4180aa32f,0,h264 1920x1080 25.000fps,FHD
+M+ LaLiga 3,M+ LaLiga,sp,835639b89db00cc0d94660da3c10b6e38bfbcdc1,0,,
+M+ LaLiga 2,M+ LaLiga,sp,83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3,0,h264 1920x1080 25.000fps,FHD
+M+ LaLiga 3,M+ LaLiga,sp,ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4,0,h264 1920x1080 25.000fps,FHD
+M+ LaLiga 2,M+ LaLiga,sp,f31a586422c9244196c810c84b6c85da350318a5,0,,
 M+ Liga de Campeones,M+ Liga de Campeones,sp,8edb264520569b2280c5e86b2dc734e120032903,0,h264 1280x720 25.000fps,HD
 M+ Liga de Campeones,M+ Liga de Campeones,sp,e572a5178ff72eed7d1d751a18b4b3419699f370,0,h264 1920x1080 25.000fps,FHD
 M+ Liga de Campeones,M+ Liga de Campeones,sp,bb5a8bf7752e978460ee1710e5e8950a5c9e1f99,0,h264 1920x1080 25.000fps,FHD
@@ -159,6 +166,7 @@ M+ SuperCopa,M+ SuperCopa,sp,b51f2d9a15b6956a44385b6be531bcabeb099d9d,0,h264 25.
 M+ Vamos,M+ Vamos,sp,12ba546d229bc39f01c3c18988a034b215fe6adb,0,h264 1280x720 25.000fps,HD
 M+ Vamos,M+ Vamos,sp,d03c13b6723f66155d7a0df3692a3b073fe630f2,0,h264 1280x720 25.000fps,HD
 M+ Vamos,M+ Vamos,sp,859bb6295b8d0f224224d3063d9db7cdeca03122,0,h264 1920x1080 50.000fps,FHD
+M+ Vamos #Ellas,M+ Vamos,sp,d8c2ed470e847154a88f011137cc206319f6bed5,0,h264 1920x1080 25.000fps,FHD
 Magenta Sport 1,Magenta Sport,de,501141c649a2b78c4965cbf3257224181cc55072,0,h264 1920x1080 50.000fps,FHD
 Magenta Sport 10,Magenta Sport,de,6058a4c0f2569bd81c687aa7dfb48b8a9569fb29,0,h264 1920x1080 50.000fps,FHD
 Magenta Sport 11,Magenta Sport,de,c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6,0,h264 1920x1080 50.000fps,FHD
@@ -259,6 +267,8 @@ ViP Sport Fint GA 1,Otras TV,,38ea10d691cbd9a4812e192a6c7a8dc17f3f75e0,0,,
 ViP Sport Fint GA 2,Otras TV,,c5c77d77e6f9930a8a8e3be9febbc64c2f3e1c79,0,,
 ViP Sport Fint GA 4,Otras TV,,941e77b24c012c3b4098d96643038ecadba18312,0,,
 World of Basketball,Otras TV,ru,c4acde347445b0a07a9e8695b4254bee2b2df570,0,h264 1920x1080 25.000fps,FHD
+M+ Golf 2,Otras TV,sp,e258e75e0e802afa5fcc53d46b47d8801a254ad5,0,h264 1920x1080 25.000fps,FHD
+M+ Golf,Otras TV,sp,f41f1096862767289620be5bd85727f946a434db,0,h264 1920x1080 25.000fps,FHD
 Polsat Sport,Polsat Sport,po,92b6ba09dae4bbb8a67a405125d08ca8d15380ee,0,h264 1920x1080 50.000fps,FHD
 Polsat Sport Extra,Polsat Sport,po,ef2cf11fc83f4f15a33c9a514a7afd2bce73122f,0,h264 1920x1080 50.000fps,FHD
 Polsat Sport Fight,Polsat Sport,po,9e7fe279f421b734a8af9e68320955fd16f80b4b,0,h264 1920x1080 50.000fps,FHD
@@ -346,6 +356,9 @@ TNT Sports 3,TNT Sports,en,22fead867a8657cfb58cd84245e18954ab199db3,0,,
 La 1 TVE,TVE,sp,d7bb054b103a1f51b44518dcb80ef23370133d40,0,h264 1280x720 25.000fps,HD
 La 1 TVE,TVE,sp,b897de3e62d7c6bee9ef1107d972f3d1075e03ff,0,h264 1280x720 25.000fps,HD
 Teledeporte,TVE,sp,ce473aab8e9232071c777c6d778a476fab818955,0,h264 1280x720 25.000fps,HD
+Telecinco,TVE,sp,47e6dd48dd7c9705d07b13139b80e44683fd5eb1,0,h264 1920x1080 25.000fps,FHD
+Teledeporte,TVE,sp,61b9b271c16f970aab43cb753c5f8be181dceece,0,h264 1920x1080 25.000fps,FHD
+Telecinco,TVE,sp,66a7e4727bccce8ccc04e54861b06b62d89452fa,0,h264 1920x1080 25.000fps,FHD
 Ziggo Sport,Ziggo Sport,nl,7f50e06f715720e944cce35fa90b6b7a8db04b2e,0,h264 1280x720 25.000fps,HD
 Ziggo Sport,Ziggo Sport,nl,36dfc36084b2138d3451c4700b462ac1094d693d,0,h264 1920x1080 25.000fps,FHD
 Ziggo Sport,Ziggo Sport,nl,fcd7621df513f600652b4813d5d8fd1daed60058,0,h264 1920x1080 50.000fps,FHD
